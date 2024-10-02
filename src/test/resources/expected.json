@@ -1,0 +1,39 @@
+{
+	"test1":{
+		"showName":"Who Trolled Amber",
+		"downloads": 24
+	},
+	"test2":{
+		"deviceType": "mobiles & tablets",
+		"downloads": 60
+	},
+	"test3":[
+		{
+			"showName": "Stuff You Should Know",
+			"prerollOpportunities": 40
+		},
+		{
+			"showName": "Who Trolled Amber",
+			"prerollOpportunities": 40
+		},
+		{
+			"showName": "Crime Junkie",
+			"prerollOpportunities": 30
+		},
+		{
+			"showName": "The Joe Rogan Experience",
+			"prerollOpportunities": 10
+		},
+	],
+	"test4":[
+		{
+			"showName": "Crime Junkie",
+			"releaseInfo": "Wed 22:00"
+		},
+		{
+			"showName": "Who Trolled Amber",
+			"releaseInfo": "Mon 20:00"
+		}
+	]
+	
+}
